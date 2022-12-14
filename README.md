@@ -27,7 +27,8 @@
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Dataset: <a href="https://github.com/fastai/imagenette">Link To Dataset</a></td>
-<td style="text-align: left;">Robust Model: <a href="https://github.com/MadryLab/robustness_applications">Link To Robust Model</a></td>
 </tr>
+<tr class="even">
+<td style="text-align: left;">Robust Model: <a href="https://github.com/MadryLab/robustness_applications">Link To Robust Model</a></td></tr>
 </tbody>
 </table>
