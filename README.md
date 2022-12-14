@@ -9,7 +9,7 @@
 [Paper PDF](main.pdf)
 </div>
 
-![](AbsIm.png)
+![](AbsIm.jpeg)
 
 <table>
 <colgroup>
