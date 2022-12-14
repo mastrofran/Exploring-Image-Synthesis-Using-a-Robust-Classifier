@@ -17,7 +17,7 @@
 </colgroup>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">This work explores the impact of seed image distribution and classifier robust- ness on challenging tasks in image synthesis. Our approach utilizes a non-robust, ResNet50 model as a benchmark classifier and explores an adversarially robust ResNet50 model for image generation. Our findings demonstrate that the adver- sarially robust classifier greatly outperforms the benchmark classifier for image generation. The results described herein also explore other use cases of the robust classifier involving image inpainting, image super-resolution, and image-to-image translation..</td>
+<td style="text-align: left;">This work explores the impact of seed image distribution and classifier robustness on challenging tasks in image synthesis. Our approach utilizes a non-robust, ResNet50 model as a benchmark classifier and explores an adversarially robust ResNet50 model for image generation. Our findings demonstrate that the adversarially robust classifier greatly outperforms the benchmark classifier for image generation. The results described herein also explore other use cases of the robust classifier involving image inpainting, image super-resolution, and image-to-image translation..</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Paper:
