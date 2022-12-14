@@ -6,7 +6,7 @@
 
 #### fam21@duke.edu, ogg4@duke.edu
 
-[Paper PDF](main.pdf)
+[Paper PDF](main_compressed.pdf)
 </div>
 
 ![](AbsIm.jpeg)
@@ -22,7 +22,7 @@
 <tr class="even">
 <td style="text-align: left;">Paper:
 <ul>
-<li><a href="main_text.pdf">Paper PDF</a></li>
+<li><a href="main_compressed.pdf">Paper PDF</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
